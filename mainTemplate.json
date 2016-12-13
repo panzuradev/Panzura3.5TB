@@ -98,7 +98,7 @@
         },
         "artifactsBaseUrl": {
           "type": "string",
-          "defaultValue": "https://raw.githubusercontent.com/panzuradev/3.5TB/master",
+          "defaultValue": "https://raw.githubusercontent.com/panzuradev/Panzura3.5TB/master",
           "metadata": {
             "description": "Base URL of the solution template gallery package",
             "artifactsBaseUrl": ""
